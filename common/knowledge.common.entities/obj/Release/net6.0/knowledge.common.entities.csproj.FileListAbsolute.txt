@@ -1,0 +1,12 @@
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.entities\bin\Release\net6.0\knowledge.common.entities.deps.json
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.entities\bin\Release\net6.0\knowledge.common.entities.dll
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.entities\bin\Release\net6.0\knowledge.common.entities.pdb
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.entities\obj\Release\net6.0\knowledge.common.entities.csproj.AssemblyReference.cache
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.entities\obj\Release\net6.0\knowledge.common.entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.entities\obj\Release\net6.0\knowledge.common.entities.AssemblyInfoInputs.cache
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.entities\obj\Release\net6.0\knowledge.common.entities.AssemblyInfo.cs
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.entities\obj\Release\net6.0\knowledge.common.entities.csproj.CoreCompileInputs.cache
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.entities\obj\Release\net6.0\knowledge.common.entities.dll
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.entities\obj\Release\net6.0\refint\knowledge.common.entities.dll
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.entities\obj\Release\net6.0\knowledge.common.entities.pdb
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.entities\obj\Release\net6.0\ref\knowledge.common.entities.dll

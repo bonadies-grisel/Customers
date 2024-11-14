@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>knowledge</name>
+    </assembly>
+    <members>
+        <member name="M:knowledge.Controllers.CustomerController.GetById(System.Int32)">
+            <summary>
+            Gets customer by ID.
+            </summary>
+        </member>
+        <member name="M:knowledge.Controllers.CustomerController.GetAll">
+            <summary>
+            Gets all customers.
+            </summary>
+        </member>
+        <member name="M:knowledge.Controllers.CustomerController.Search(System.String)">
+            <summary>
+            Gets customers matching a string value by name.
+            </summary>
+        </member>
+        <member name="M:knowledge.Controllers.CustomerController.Create(knowledge.common.entities.DTOs.CreateCustomerDTO)">
+            <summary>
+            Creates a new customer.
+            </summary>
+            <param name="createCustomerDTO">New customer data to create.</param>
+            <remarks>
+            Request example:
+            
+                POST /customer/create
+                {
+                    "Names": "John",
+                    "Surnames": "Doe",
+                    "BirthDate": "1990-01-01",
+                    "CUIT": "12-34567890-1",
+                    "Address": "123 Main St",
+                    "CellphoneNumber": "123456789",
+                    "Email": "john.doe@example.com"
+                }
+            </remarks>      
+        </member>
+        <member name="M:knowledge.Controllers.CustomerController.Update(knowledge.common.entities.DTOs.UpdateCustomerDTO)">
+            <summary>
+            Updates an existing customer.
+            </summary>
+            <param name="updateCustomerDTO">Customer data to update.</param>
+            <remarks>
+            Ejemplo de solicitud:
+            
+                PUT /customer/update
+                {
+                    "Id": 1,
+                    "Names": "UpdatedName",
+                    "Surnames": "UpdatedSurname",
+                    "BirthDate": "1990-01-01",
+                    "CUIT": "12-34567890-1",
+                    "Address": "UpdatedAddress",
+                    "CellphoneNumber": "123456789",
+                    "Email": "updated.email@example.com"
+                }
+            </remarks>
+        </member>
+        <member name="M:knowledge.Controllers.CustomerController.Error(System.Int32,System.Int32)">
+            <summary>
+            Endpoint to generate a handled exception in order to test exception middleware.
+            </summary>
+            <param name="num1"></param>
+            <param name="num2"></param>
+            <returns></returns>
+        </member>
+        <member name="T:knowledge.Migrations.FirstMigration">
+            <inheritdoc />
+        </member>
+        <member name="M:knowledge.Migrations.FirstMigration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:knowledge.Migrations.FirstMigration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:knowledge.Migrations.FirstMigration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

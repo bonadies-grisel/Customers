@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\knowledge.common.entities\knowledge.common.entities.csproj" />
+    <ProjectReference Include="..\knowledge.common.helpers\knowledge.common.helpers.csproj" />
+  </ItemGroup>
+
+</Project>

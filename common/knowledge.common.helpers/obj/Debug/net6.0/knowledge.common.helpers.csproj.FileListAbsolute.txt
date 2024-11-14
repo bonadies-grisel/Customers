@@ -1,0 +1,12 @@
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.helpers\bin\Debug\net6.0\knowledge.common.helpers.deps.json
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.helpers\bin\Debug\net6.0\knowledge.common.helpers.dll
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.helpers\bin\Debug\net6.0\knowledge.common.helpers.pdb
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.helpers\obj\Debug\net6.0\knowledge.common.helpers.csproj.AssemblyReference.cache
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.helpers\obj\Debug\net6.0\knowledge.common.helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.helpers\obj\Debug\net6.0\knowledge.common.helpers.AssemblyInfoInputs.cache
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.helpers\obj\Debug\net6.0\knowledge.common.helpers.AssemblyInfo.cs
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.helpers\obj\Debug\net6.0\knowledge.common.helpers.csproj.CoreCompileInputs.cache
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.helpers\obj\Debug\net6.0\knowledge.common.helpers.dll
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.helpers\obj\Debug\net6.0\refint\knowledge.common.helpers.dll
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.helpers\obj\Debug\net6.0\knowledge.common.helpers.pdb
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.helpers\obj\Debug\net6.0\ref\knowledge.common.helpers.dll

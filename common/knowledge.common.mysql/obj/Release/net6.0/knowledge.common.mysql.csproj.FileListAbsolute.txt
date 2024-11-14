@@ -1,0 +1,15 @@
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mysql\bin\Release\net6.0\knowledge.common.mysql.deps.json
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mysql\bin\Release\net6.0\knowledge.common.mysql.dll
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mysql\bin\Release\net6.0\knowledge.common.mysql.pdb
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mysql\bin\Release\net6.0\knowledge.common.entities.dll
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mysql\bin\Release\net6.0\knowledge.common.entities.pdb
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mysql\obj\Release\net6.0\knowledge.common.mysql.csproj.AssemblyReference.cache
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mysql\obj\Release\net6.0\knowledge.common.mysql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mysql\obj\Release\net6.0\knowledge.common.mysql.AssemblyInfoInputs.cache
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mysql\obj\Release\net6.0\knowledge.common.mysql.AssemblyInfo.cs
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mysql\obj\Release\net6.0\knowledge.common.mysql.csproj.CoreCompileInputs.cache
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mysql\obj\Release\net6.0\knowledge.common.mysql.csproj.CopyComplete
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mysql\obj\Release\net6.0\knowledge.common.mysql.dll
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mysql\obj\Release\net6.0\refint\knowledge.common.mysql.dll
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mysql\obj\Release\net6.0\knowledge.common.mysql.pdb
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mysql\obj\Release\net6.0\ref\knowledge.common.mysql.dll

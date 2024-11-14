@@ -1,0 +1,17 @@
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mapper\bin\Debug\net6.0\knowledge.common.mapper.deps.json
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mapper\bin\Debug\net6.0\knowledge.common.mapper.dll
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mapper\bin\Debug\net6.0\knowledge.common.mapper.pdb
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mapper\bin\Debug\net6.0\knowledge.common.entities.dll
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mapper\bin\Debug\net6.0\knowledge.common.helpers.dll
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mapper\bin\Debug\net6.0\knowledge.common.entities.pdb
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mapper\bin\Debug\net6.0\knowledge.common.helpers.pdb
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mapper\obj\Debug\net6.0\knowledge.common.mapper.csproj.AssemblyReference.cache
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mapper\obj\Debug\net6.0\knowledge.common.mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mapper\obj\Debug\net6.0\knowledge.common.mapper.AssemblyInfoInputs.cache
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mapper\obj\Debug\net6.0\knowledge.common.mapper.AssemblyInfo.cs
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mapper\obj\Debug\net6.0\knowledge.common.mapper.csproj.CoreCompileInputs.cache
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mapper\obj\Debug\net6.0\knowledge.common.mapper.csproj.CopyComplete
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mapper\obj\Debug\net6.0\knowledge.common.mapper.dll
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mapper\obj\Debug\net6.0\refint\knowledge.common.mapper.dll
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mapper\obj\Debug\net6.0\knowledge.common.mapper.pdb
+C:\Users\Katy\Documents\Proyectp\Knowledge-master\common\knowledge.common.mapper\obj\Debug\net6.0\ref\knowledge.common.mapper.dll
